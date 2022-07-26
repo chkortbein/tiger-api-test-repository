@@ -1,5 +1,5 @@
 Feature: Create an account and add address to the account.
-
+# Step 0) This is a test comment for practicing git commits
   # Step 1) Get a token
   # Step 2) Generate an account
   # Step 3) add address to generated account
